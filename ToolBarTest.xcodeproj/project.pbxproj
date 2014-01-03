@@ -21,6 +21,7 @@
 		0090728B18767D9300C20836 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0090726D18767D9300C20836 /* UIKit.framework */; };
 		0090729318767D9300C20836 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0090729118767D9300C20836 /* InfoPlist.strings */; };
 		0090729518767D9300C20836 /* ToolBarTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0090729418767D9300C20836 /* ToolBarTestTests.m */; };
+		0090729F18767E4800C20836 /* 002.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0090729E18767E4800C20836 /* 002.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		0090729018767D9300C20836 /* ToolBarTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ToolBarTestTests-Info.plist"; sourceTree = "<group>"; };
 		0090729218767D9300C20836 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0090729418767D9300C20836 /* ToolBarTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToolBarTestTests.m; sourceTree = "<group>"; };
+		0090729E18767E4800C20836 /* 002.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 002.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 			isa = PBXGroup;
 			children = (
 				0090727818767D9300C20836 /* AppDelegate.h */,
+				0090729E18767E4800C20836 /* 002.jpg */,
 				0090727918767D9300C20836 /* AppDelegate.m */,
 				0090727B18767D9300C20836 /* Main.storyboard */,
 				0090727E18767D9300C20836 /* ViewController.h */,
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0090729F18767E4800C20836 /* 002.jpg in Resources */,
 				0090728218767D9300C20836 /* Images.xcassets in Resources */,
 				0090727418767D9300C20836 /* InfoPlist.strings in Resources */,
 				0090727D18767D9300C20836 /* Main.storyboard in Resources */,
